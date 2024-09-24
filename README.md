@@ -40,4 +40,50 @@ A count plot was generated to analyze the distribution of product sizes purchase
 
 By examining the courier status of the orders, it was found that a significant majority of the orders are shipped via couriers. This finding highlights the efficiency of courier services in fulfilling customer orders and may suggest that improving relationships with courier partners could further enhance customer satisfaction and delivery times.
 
+![Courier](https://github.com/user-attachments/assets/5d7bc277-d62d-446a-a88f-d521e5557499)
+
+
+### 3. Sales by Category:
+
+A histogram was created to visualize sales distribution across different product categories. The analysis indicated that T-shirts are the top-selling category, showcasing their popularity among consumers. Understanding category performance is crucial for inventory management and targeted marketing campaigns.
+
+![T-shirts](https://github.com/user-attachments/assets/0042f3da-f3f1-4955-a466-5ec496af825f)
+
+
+### 4. Buyer Type Analysis:
+
+A pie chart was generated to distinguish between B2B (business-to-business) and retail buyers. The results indicated that a staggering 99.2% of purchases were made by retail buyers, compared to just 0.8% by B2B buyers. This insight underscores the dominance of retail transactions in the sales data and could influence future sales strategies.
+
+![Pie_chart](https://github.com/user-attachments/assets/07ea1e87-dedd-460f-b079-3b7ee84c5cc6)
+
+
+### 5. Size Availability by Category:
+
+A scatter plot was used to explore the relationship between product categories and their available sizes. This analysis showed how sizes are distributed across different categories, which can inform decisions regarding product range and size availability to better meet customer demand.
+
+![ScatterPlot](https://github.com/user-attachments/assets/8179e017-882a-4f71-b41d-9bb738e35605)
+
+
+### 6. Geographical Insights:
+
+The ship-state column was analyzed using a count plot to identify the distribution of buyers by state. The results indicated that Maharashtra had the highest number of buyers, suggesting it as a key market for targeted marketing efforts and localized promotions.
+
+![State](https://github.com/user-attachments/assets/8610ad87-89e7-46d7-a6d3-a2153f7ebb60)
+
+
+## Conclusion
+The analysis provides valuable insights into consumer preferences and purchasing behavior on Amazon. Key findings reveal a strong preference for M-size products and indicate that retail buyers significantly outnumber B2B buyers. These insights can guide future marketing strategies and inventory management.
+
+
+## Technologies Used
+#### Python
+#### Pandas
+#### Matplotlib
+#### Seaborn
+
+
+## Future Work
+
+Potential future analyses could include time-series analysis to understand seasonal trends, as well as sentiment analysis on customer reviews to further explore buyer satisfaction.
+
 
